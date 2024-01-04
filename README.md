@@ -37,9 +37,9 @@ Here how to do
     - git remote add origin example:git@github.com:kimmynova/kimmynova.git
     - git push -u origin main
 - push an existing repository from the command line
-    git remote add origin example:git@github.com:kimmynova/kimmynova.git
-    git branch -M main
-    git push -u origin main
+    - git remote add origin example:git@github.com:kimmynova/kimmynova.git
+    - git branch -M main
+    - git push -u origin main
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
