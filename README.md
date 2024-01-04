@@ -19,14 +19,16 @@ Here how to do
 - 📚 What is git?
     <p>Git is a DevOps tool used for source code management. It is a free and open-source version control system used to handle small to very large projects efficiently. Git is used to tracking changes in the source code, enabling multiple developers to work together on non-linear development.</p>
 - Command git
-   - git init.
-   - git add.
-   - git commit.
+   - git init
+   - git add .
+   - git branch
    - git status.
-   - git config.
-   - git branch.
-   - git checkout.
-   - git merge.
+   - git checkout -b YourbranchName
+   - git merge
+   - git commit -m "message"
+   - git push
+   - git pull
+   - git stash -u
 
 
 
