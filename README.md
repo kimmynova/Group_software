@@ -29,8 +29,17 @@ Here how to do
    - git push
    - git pull
    - git stash -u
-
-
+- create a new repository on the command line
+    - git init
+    - git add README.md
+    - git commit -m "first commit"
+    - git branch -M main
+    - git remote add origin example:git@github.com:kimmynova/kimmynova.git
+    - git push -u origin main
+- push an existing repository from the command line
+    git remote add origin example:git@github.com:kimmynova/kimmynova.git
+    git branch -M main
+    git push -u origin main
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
