@@ -1,7 +1,7 @@
 # Group_software
 
 Here how to do 
-    <h1 align="center">Hi 👋, I'm kimmyNova</h1>
+    <h1 align="center">Hi 👋, Group Software Engineering</h1>
 <h3 align="center">Learn how to git command</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kimmynova&label=Profile%20views&color=0e75b6&style=flat" alt="kimmynova" /> </p>
